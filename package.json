@@ -1,0 +1,13 @@
+{
+  "name": "wechat-work-webhook",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "crypto": "^1.0.1"
+  }
+}
